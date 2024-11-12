@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Okechukwu Okolie. <br/>
+I am a Full-Stack software developer <br/>
+I am currently honing my skills and  <br/>
+I love building software based solutions using:The MERN stack, <br/>
+HTML, CSS, Javascript and Python.
+
